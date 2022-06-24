@@ -20,4 +20,4 @@ The dataset presented in this github ([Data_PUP1.csv](https://github.com/cabani/
 - DateE: the date when the parcel is taken over by a carrier
 - DateD: the delivery date
 - DateP: the pick up date
-- Carrier: the carrier
+- Carrier: the carrier 
