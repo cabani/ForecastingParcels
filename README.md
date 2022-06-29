@@ -14,7 +14,7 @@ For more details about this work:
 >  Thi Thu Tam Nguyen, Adnane Cabani, Iyadh Cabani, Koen De Turck, and Michel Kieffer, "Prediction of the Load of a Parcel Pick-Up Point: Data-Driven vs Model-Driven approaches", (Under Review).
 
 # Dataset
-The dataset presented in this github ([Data_PUP1.csv](https://github.com/cabani/ForcastingParcels/blob/main/Data_PUP1.csv)) is collected from one Pick-Up Point. Each line of the csv file contains for each parcel: 
+The dataset presented in this github ([Data_PUP1.csv](https://github.com/cabani/ForcastingParcels/blob/main/data.csv)) is collected from one Pick-Up Point. Each line of the csv file contains for each parcel: 
 - Id_parcel: the ID of the parcel
 - DateR: the date when the parcel is ready for expedition
 - DateE: the date when the parcel is taken over by a carrier
