@@ -11,7 +11,7 @@ Along with home delivery, Pick-Up Points (PUP) have been developed as an alterna
 This paper presents and compares forecasting approaches for the load of a PUP to help PUP managing companies balance delivery flows and reduce PUP overload. The parcel life-cycle has been taken into account in the forecasting process, via models of the flow of parcel orders, of the parcel delivery delays, and of the pick-up process. Model-driven and data-driven approaches are compared in terms of load-prediction accuracy. 
 
 For more details about this work:
->  "Prediction of the Load of a Parcel Pick-Up Point: Data-Driven vs Model-Driven approaches", (Under Review).
+>  Thi Thu Tam Nguyen, Adnane Cabani, Iyadh Cabani, Koen De Turck, and Michel Kieffer, "Prediction of the Load of a Parcel Pick-Up Point: Data-Driven vs Model-Driven approaches", (Under Review).
 
 # Dataset
 The dataset presented in this github ([Data_PUP1.csv](https://github.com/cabani/ForcastingParcels/blob/main/Data_PUP1.csv)) is collected from one Pick-Up Point. Each line of the csv file contains for each parcel: 
